@@ -13,5 +13,6 @@ yum install python3 python3-pip
 
 As root user
 ```shell
+chmod +x packageOCSAgent.sh
 ./packageOCSAgent.sh
 ```
